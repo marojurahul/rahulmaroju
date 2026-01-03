@@ -15,4 +15,4 @@
 * **The Architecture**: Implemented a **Leader-Subordinate** multi-agent model using n8n and Pinecone for specialized data triage.
 
 ### 📫 Connect with me:
-[LinkedIn](https://www.linkedin.com/in/rahulmaroju/)) | [Email](mailto:rahulmaroju822@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/rahulmaroju/) | [Email](rahulmaroju822@gmail.com)
